@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-This a simple Tic-Tac-Toe game created using Python3.This game doesn't have and GUI , only GUI available is CMD GUI.
+This a simple Tic-Tac-Toe game created using Python3.This game doesn't have and GUI , only GUI available is Command Line program GUI.
 Tic Tac Toe is a game played by two players or a player against a computer.Each player gets to take either a 'X' or a 'O' and fill in these charcters in each turn.
 The objective of the game is to the score the charcter the players took, 3 in a row, either horizontaly, vertically or diagonaly.
 But in this game you can only play against computer, and first chance will always be yours . i.e Player has to play 'X' and Computer will play 'O' 
