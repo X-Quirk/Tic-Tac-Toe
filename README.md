@@ -12,6 +12,10 @@ But in this game you can only play against computer, and first chance will alway
 5. All the logic i used is explained as comments in the script/code
 6. To edit the script, open it in a text editor and make the changes neccesary and save it.
 
+# Note
+You need to have the Python3 Interpreter installed to run the script. <br/>
+If you want to, you can download the Python3 Interpreter from [here](https://www.python.org/downloads/).<br/>
+
 #
 Feel free to change the Code according to your needs
  
